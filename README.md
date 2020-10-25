@@ -16,4 +16,5 @@
 <li><strong><a title="HuffmanDecompress.cpp" href="HuffmanDecompress.cpp">HuffmanDecompress.cpp</a>&nbsp;</strong>-&nbsp;This part is in charge of the new modified decompression.</li>
 </ul>
 <p><strong>How to use:</strong></p>
+<p><strong>Results:&nbsp;</strong>Our results show an improvement of 10% on average per file, which means that knowing the type of file before using the compression algorithm can be used to manipulate the algorithm to achieve a better compression due to the use of the file type characteristics for expending and modifying the alphabet.</p>
 <p>&nbsp;</p>
