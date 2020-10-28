@@ -16,5 +16,13 @@
 <li><strong><a title="HuffmanDecompress.cpp" href="HuffmanDecompress.cpp">HuffmanDecompress.cpp</a>&nbsp;</strong>-&nbsp;This part is in charge of the new modified decompression.</li>
 </ul>
 <p><strong>How to use:</strong></p>
+<p><strong>Compress proccess:&nbsp;</strong>in&nbsp;<strong><a href="https://github.com/Dvirhac/DataCompression/blob/master/HuffmanCompress.cpp">HuffmanCompress.cpp</a>:</strong></p>
+<p><strong>"inputFile": </strong>the path to the file you want to compress.</p>
+<p><strong>"outputFile":</strong> the path to where you want the result of the compression.</p>
+<p>&nbsp;</p>
+<p><strong>decompress procces:&nbsp;</strong>in</p>
+<p><strong>compress procces:&nbsp;</strong>in&nbsp;<strong><a title="HuffmanDecompress.cpp" href="https://github.com/Dvirhac/DataCompression/blob/master/HuffmanDecompress.cpp">HuffmanDecompress.cpp</a></strong><strong>:</strong></p>
+<p><strong>"inputFile": </strong>the path to the file you want to decompress.</p>
+<p><strong>"outputFile": </strong>the path to where you want the result of the decompression.</p>
 <p><strong>Results:&nbsp;</strong>Our results show an improvement of 10% on average per file, which means that knowing the type of file before using the compression algorithm can be used to manipulate the algorithm to achieve a better compression due to the use of the file type characteristics for expending and modifying the alphabet.</p>
 <p>&nbsp;</p>
